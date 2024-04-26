@@ -1,8 +1,5 @@
 import Image from "next/image";
-// import logoImg from './logo.webp'
-// import logoImg from './logo 2.png'
 import logoImg from './logo 3.png'
-import Link from "next/link";
 
 export default function Home() {
   return (
